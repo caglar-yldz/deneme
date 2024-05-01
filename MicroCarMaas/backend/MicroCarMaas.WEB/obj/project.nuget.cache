@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QcC8R7YBvPrzxXp46vs+i9oc0R5CV6aJ/RNqFGDl7ywr8lF5B56SFL/3f9pK0UzAVRUdkWRrG0uN5itpiHp4EA==",
+  "success": true,
+  "projectFilePath": "/Users/caglar/Documents/otokar/MicroCarMaas/backend/MicroCarMaas.WEB/MicroCarMaas.WEB.csproj",
+  "expectedPackageFiles": [
+    "/Users/caglar/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/caglar/.nuget/packages/system.linq.async/6.0.1/system.linq.async.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D2E9772D-C157-4249-B22D-EA906B4DD489}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicroCarMaas/appsettings.json">
+    <Files>
+      <File FileName="MicroCarMaas/Program.cs" />
+      <File FileName="MicroCarMaas/Repositories/Concretes/SmsRepository.cs" />
+      <File FileName="MicroCarMaas/Repositories/Concretes/CarRepository.cs" />
+      <File FileName="MicroCarMaas/Controllers/OtpController.cs" />
+      <File FileName="MicroCarMaas/appsettings.json" Line="14" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicroCarMaas" expanded="True">
+            <Node name="MicroCarMaas.API" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MicroCarMaas.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

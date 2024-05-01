@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroCarMaas.API", "MicroCarMaas\MicroCarMaas.API.csproj", "{D2E9772D-C157-4249-B22D-EA906B4DD489}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroCarMaas.WEB", "MicroCarMaas.WEB\MicroCarMaas.WEB.csproj", "{806C9332-E0E1-49FA-AA93-0D31C0BFA8D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E9772D-C157-4249-B22D-EA906B4DD489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E9772D-C157-4249-B22D-EA906B4DD489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E9772D-C157-4249-B22D-EA906B4DD489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E9772D-C157-4249-B22D-EA906B4DD489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806C9332-E0E1-49FA-AA93-0D31C0BFA8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806C9332-E0E1-49FA-AA93-0D31C0BFA8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806C9332-E0E1-49FA-AA93-0D31C0BFA8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806C9332-E0E1-49FA-AA93-0D31C0BFA8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B64E808F-587D-4810-AF55-01A28989AD6E}
+	EndGlobalSection
+EndGlobal
